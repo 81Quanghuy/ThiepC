@@ -1,6 +1,6 @@
 // js cho phần chuyển trang
 function btn(){
-    window.location.href = "../Thiep2/index.html";     //chuyển trang
+    window.location.href = "https://81quanghuy.github.io/Thiep2/";     //chuyển trang
 }
 // js phần canvas
 // when animating on canvas, it is best to use requestAnimationFrame instead of setTimeout or setInterval
