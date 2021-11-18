@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    position: relative;
+}
+
+
+canvas{
+    cursor: crosshair;
+    cursor: crosshair;
+    display: block;
+    position: absolute;
+    top: -61px;
+    background: transparent;
+}
+img{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.thiep{
+    background: url("../Thiep2/Img/background.jpg");
+    position: relative;
+}
+
+
+
+.btn {
+    width: 15%;
+    height: 40px;
+    bottom: 1%;
+    border-radius: 8px;
+    position: absolute;
+    background-color: #418345;
+    color: white;
+    border: none;
+    box-shadow: 0 19px 38px rgb(0 0 0 / 30%), 0 15px 12px rgb(0 0 0 / 22%);
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 18px;
+}
+.btn:hover{
+    background-color: #86b989;
+    color: black;
+}
